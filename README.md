@@ -1,7 +1,8 @@
-## Olá, Eu sou a Marina👋
+#Olá, Eu sou a Marina👋
 
 Sou Residente TIC/Software no SERRATEC.
-Sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
+
+Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
 
 
 
