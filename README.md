@@ -4,7 +4,9 @@ Sou Residente TIC/Software no SERRATEC.
 
 Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
 
+## Entre em contato comigo
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marina-pereira-cardozo/)](https://www.linkedin.com/in/marina-pereira-cardozo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cardozo.marina.p@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
 
 <!--
