@@ -21,7 +21,7 @@ I am also a Mechanical Engineer and have an MBA in People Management.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marina-pereira-cardozo/)](https://www.linkedin.com/in/marina-pereira-cardozo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cardozo.marina.p@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
-### Languages, Technologies and Tools
+### 🖥 Languages, Technologies and Tools
 
 ![](https://img.shields.io/badge/-JAVA-red)
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
