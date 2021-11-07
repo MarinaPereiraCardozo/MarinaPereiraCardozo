@@ -1,14 +1,27 @@
-# Olá, Eu sou a Marina👋
+<table>
+  <tr>
+    <td>
+      <a href="README.md" disabled>🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="readme_pt-br.md">🇧🇷 Portuguese</a>
+    </td>
+   </tr>
+</table>
 
-Sou Residente TIC/Software no Serratec.
+# Hello there, I'm Marina👋
 
-Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
+I am a TIC/Software Resident at Serratec.
 
-### Entre em contato comigo
+I am also a Mechanical Engineer and have an MBA in People Management.
+
+### 📬 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marina-pereira-cardozo/)](https://www.linkedin.com/in/marina-pereira-cardozo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cardozo.marina.p@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
-### Linguagens, tecnologias e ferramentas
+### Languages, Technologies and Tools
 
 ![](https://img.shields.io/badge/-JAVA-red)
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
@@ -17,18 +30,3 @@ Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ![](https://img.shields.io/badge/-CSS-blue)
-
-<!--
-**MarinaPereiraCardozo/MarinaPereiraCardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
