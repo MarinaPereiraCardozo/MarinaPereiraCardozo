@@ -23,9 +23,9 @@ Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
 
 ### Linguagens, tecnologias e ferramentas
 
+![](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
 ![](https://img.shields.io/badge/-JAVA-red)
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
-![](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
 ![](https://img.shields.io/badge/-SQL-blue)
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
