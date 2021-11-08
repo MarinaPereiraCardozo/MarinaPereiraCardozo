@@ -11,7 +11,6 @@
    </tr>
 </table>
 
-<style background-color="purple"></style>
 
 # Hello there, I'm Marina👋
 
