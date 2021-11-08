@@ -11,6 +11,8 @@
    </tr>
 </table>
 
+<style background-color="purple"></style>
+
 # Hello there, I'm Marina👋
 
 I am a TIC/Software Resident at Serratec.
