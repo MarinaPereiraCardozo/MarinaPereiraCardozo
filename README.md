@@ -24,6 +24,8 @@ I am also a Mechanical Engineer and have an MBA in People Management.
 
 ### 🖥 Languages, Technologies and Tools
 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
 ![](https://img.shields.io/badge/-JAVA-red)
