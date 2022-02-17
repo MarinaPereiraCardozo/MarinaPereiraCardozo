@@ -24,9 +24,8 @@ I am also a Mechanical Engineer and have an MBA in People Management.
 
 ### Currently working with
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Quarkus-0078D4?style=for-the-badge&logo=quarkus)
+![](https://img.shields.io/badge/Quarkus-4795EB?style=for-the-badge&logo=quarkus&logoColorFF0049)
 ![](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
 
 ### 🖥 Languages, Technologies and Tools
 
