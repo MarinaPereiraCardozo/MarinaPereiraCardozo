@@ -17,14 +17,14 @@ Sou Desenvolvedora de Integração na Best2Bee.
 
 Eu também sou Engenheira Mecânica e possuo MBA em Gestão de Pessoas.
 
-### Entre em contato comigo
+### 📬 Entre em contato comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marina-pereira-cardozo/)](https://www.linkedin.com/in/marina-pereira-cardozo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cardozo.marina.p@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
-### Atualmente trabalhando com
+### 📊 Atualmente trabalhando com
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)	
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)	
 
-### Linguagens, tecnologias e ferramentas
+### 🖥 Linguagens, tecnologias e ferramentas
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
