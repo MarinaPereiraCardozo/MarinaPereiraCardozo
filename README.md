@@ -22,15 +22,11 @@ I am also a Mechanical Engineer and have an MBA in People Management.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marina-pereira-cardozo/)](https://www.linkedin.com/in/marina-pereira-cardozo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cardozo.marina.p@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
-### 📊 Currently working with
+### 📊 Currently working and Studying...
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)	
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)	
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)	
-
-### 📚 Studying...
-
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)	
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)	
 
 ### 🖥 Languages, Technologies and Tools
 
